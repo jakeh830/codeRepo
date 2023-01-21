@@ -1,0 +1,220 @@
+html {  
+ color: #fff;
+}
+.page_headings {
+  text-align: center;  
+  font-size: 3em;
+}
+.index_links {
+  text-align: center;
+  font-size: 1.5em;
+}
+.homepage_link {
+ font-size: 1em;
+ text-decoration: none;
+ text-align: left;
+}
+img{
+  max-width: 100%
+}
+nav {
+  font-size: 175%;
+}
+ul {
+  list-style-type: none;
+}
+a:link, a:active, a:visited {
+  text-decoration: none;
+  color: #fff;     
+}
+a:hover {
+	color: #999
+}
+.body_default {
+  font-family: sans-serif;
+  text-shadow: 3px 3px 4px black;  
+  background: url("images/pepe_wallpaper.jpg") no-repeat center center fixed;
+	background-color: #000;	
+  background-size: cover;
+	background-attachment: fixed;
+}
+.body_copy_pastas {
+	font-family: Tahoma, Geneva, sans-serif;
+	text-shadow: 3px 3px 4px #000;
+	background-size: cover;
+	background: url("images/pasta_wallpaper.jpg");    
+	background-color: #000;	
+	background-attachment: fixed;
+}
+.body_tf2 {
+	font-family: Verdana, Geneva, sans-serif;
+	text-shadow: 3px 3px 4px #000;
+	background: linear-gradient(to right, #aa1d0d, #0351af);
+	height: 375%;
+}
+.body_videos {
+	font-family: sans-serif;
+	text-shadow: 3px 3px 4px #000;
+	background-size: cover;
+	background: url("images/theater_wallpaper.jpg");
+	background-color: #000;	
+	background-repeat: cover;
+	background-attachment: fixed;
+}
+.body_vaporwave {
+	font-family: sans-serif;
+  text-shadow: 3px 3px 4px black;  
+  background: url("images/vaporwave_wallpaper.jpg") no-repeat center center fixed;
+	background-color: #000;	
+  background-size: cover;
+	background-repeat: cover;
+	background-attachment: fixed;
+}
+header {
+	color: #fff;
+}
+footer {
+	color: #999;
+}
+.copy_pastas {
+  text-align:center;
+  margin-left: 27%;
+  margin-right: 27%;
+  font-size: 1.15em;
+}
+#darth_plagueis {
+  color: #fe0;
+}
+#trebuchet {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+  color: #0ef476;
+}
+#chess {
+  color: #00f2ff;
+}
+#cars_history {
+	color: #ff9335;
+}
+#baron_trump {
+	color: #fc4ee5;
+}
+.memes {
+  display: block;
+  margin: auto;
+  width: 45%;
+  margin-bottom: 32px;
+  text-align: center; 
+}
+#charlie_brown {
+  width: 38em;
+  height: 34em;
+}
+#italian {
+  width: 36em;
+  height: 32em;
+}
+#lowkey_insecure {
+	width: 33em;
+	height: 33em;
+}
+#meesa {
+	width: 35em;
+  height: 45em;
+}
+#snake_in_my_boot {
+	width: 30em;
+	height: 45em;
+}
+#sayonara {
+  width: 38em;
+  height: 34em;
+}
+#m97_flamethrower {
+  width: 38em;
+  height: 34em;
+}
+#lego_racer {
+	height: 60em;
+	width: 23em;		
+}
+#need_me_a_freak {
+	width: 43em;
+	height: 32em;
+}
+#patrick_casting_couch {
+	width: 45em; 
+	height: 30em
+}
+#husband_dead {
+	width: 45em;
+	height: 35em; 
+}
+#patrick_news {
+	width: 40em;
+	height: 55em;
+}
+#patrick_vietnam_veteran {
+	width: 37em; 
+	height: 43em; 
+}
+#thot_destroyer {
+	width: 35em;
+	height: 40em; 
+}
+#racist_memes {
+	width: 37em;
+	height: 40em; 
+}
+#bertstrip_P_R {
+	width: 35em;
+	height: 42em;
+}
+#bertstrip_i_know_god {
+	width: 35em;
+	height: 40em; 
+}
+#poop_lagoon {
+	width: 36em;
+	height: 34em;
+	
+}
+.tf2_class_headings {
+	text-align: center;
+	text-decoration: underline;	
+}
+.tf2_class_text_left {
+	float: left;
+	font-size: 130%;
+	display: inline; 
+}
+.tf2_class_text_right {
+	float: right;
+	font-size: 130%;
+	display: inline; 
+}
+.tf2_images_right {
+	float: right; 
+	height: 12em;
+	width: 12em;
+	border-radius: 25%; 
+	display: inline; 
+	padding-left: 20px; 
+}
+.tf2_images_left {
+	float: left; 
+	height: 12em;
+	width: 12em;
+	border-radius: 25%; 
+	display: inline; 
+	padding-right: 20px; 
+}
+.videos {
+	display: block;
+  margin: auto;
+  width: 65%;
+	height: 75%;
+  margin-bottom: 32px;
+  text-align: center; 
+}
+
+
