@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "BaskerVille Old Face";
+  src: url(fonts/BASKVILL.ttf);
+}
+html {
+  background: url("img/indexWallpaper.jpg");
+}
+body {
+  font-family: "Baskerville Old Face";
+  background-color: #fee2a0;
+  margin-left: 27%;
+  margin-right: 27%;  
+  font-size: 3em;
+  text-align: center;
+  /*text-shadow: 1px 1px 2px #181616;*/
+}
+
+a {
+  list-style-type: none;
+  color: #0aa037;
+  padding: 0;
+  text-decoration: none;
+}
